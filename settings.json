@@ -38,14 +38,14 @@
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 25920000,
-    "max-reconnect-delay": 31536000
+    "auto-reconnect-delay": 150,
+    "max-reconnect-delay": 150
   },
   "movement": {
     "enabled": true,
     "circle-walk": {
       "enabled": true,
-      "radius": 500000,
+      "radius": 100,
       "speed": 3000
     },
     "look-around": {
