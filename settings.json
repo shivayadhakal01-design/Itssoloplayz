@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "ItsSoloPlays",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "BUDOLBOYS.aternos.me",
     "port": 51177,
-    "version": "26.1.2",
+    "version": "1.20.1",
     "try-creative": false
   },
   "position": {
