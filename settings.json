@@ -8,7 +8,7 @@
   "server": {
     "ip": "BUDOLBOYS.aternos.me",
     "port": 51177,
-    "version": "1.20.1",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
@@ -37,15 +37,15 @@
       ]
     },
     "chat-log": true,
-    "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000
+    "auto-reconnect": false,
+    "auto-reconnect-delay": 100,
+    "max-reconnect-delay": 100
   },
   "movement": {
     "enabled": true,
     "circle-walk": {
       "enabled": true,
-      "radius": 4,
+      "radius": 50,
       "speed": 3000
     },
     "look-around": {
